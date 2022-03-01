@@ -1,0 +1,10 @@
+{
+	"properties": [
+	{
+		"identifier": "CurrentVoltage",
+		"dataType": {
+			"type": "double"
+		}
+	}
+	]
+}
